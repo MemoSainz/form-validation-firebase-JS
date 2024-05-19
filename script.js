@@ -73,7 +73,7 @@ document.getElementById("formulario").addEventListener("submit", (event) => {
         password: contrasenaEntrada.value,
       })
       .then((docRef) => {
-        alert("El formulario se ha enviado con éxito".docRef.id);
+        alert("El formulario se ha enviado con éxito", docRef.id);
         document.getElementById("formulario").reset();
       })
       .catch((error) => {
