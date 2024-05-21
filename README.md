@@ -1,3 +1,4 @@
+<div align="center">
 ES: Firebase es usado como una base de datos
 EN: Firebase is used as a database.
 
