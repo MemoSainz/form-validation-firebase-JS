@@ -8,11 +8,13 @@
 > 
 > This is a test, the database will expire from now to 30 days. I will be reopened the database for testing or if a business asks or wants to test  this.
 
-<hr>
+<br>
 
 > Spanish
 > 
 > Esta es una prueba, la base de datos caducará de ahora a 30 días. Yo reabriré la base de datos para pruebas o si un negocio pregunta o necesita probar esto.
+
+<hr>
 
   
 ES: Firebase es usado como una base de datos
@@ -21,6 +23,7 @@ EN: Firebase is used as a database.
 
 > Also, files of the project in English, inside the folder.
 
+<hr>
 
 
 EN: It is need by the user to put a name, an email and a password that must contain from 8 to 15 characters, as well at least one upper & lower cases and a special character.
