@@ -4,6 +4,6 @@ EN: Firebase is used as a database.
 Also, files of the project in English, inside the folder.
 
 
-Spanish: [Netlify](https://form-validation-firebase-es.netlify.app/)
+Spanish: [Netlify](https://form-validation-firebase-memosainz-es.netlify.app/)
 
-English: Netlify
+English: [Netlify](https://form-validation-firebase-memosainz.netlify.app/)
