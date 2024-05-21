@@ -3,11 +3,10 @@
 </h1>
 
 <div align="center">
-> English
-  
+> EN
 > This is a test, the database will expire from now to 30 days. I will be reopened the database for testing or if a business asks or wants to test  this.
 
-> Spanish
+> ES
 > Esta es una prueba, la base de datos caducará de ahora a 30 días. Yo reabriré la base de datos para pruebas o si un negocio pregunta o necesita probar esto.
 
   
