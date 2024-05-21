@@ -13,13 +13,13 @@ ES: Firebase es usado como una base de datos
   
 EN: Firebase is used as a database.
 
-Also, files of the project in English, inside the folder.
+> Also, files of the project in English, inside the folder.
 
 
 
-It is need by the user to put a name, an email and a password that must contain from 8 to 15 characters, as well at least one upper & lower cases and a special character.
+EN: It is need by the user to put a name, an email and a password that must contain from 8 to 15 characters, as well at least one upper & lower cases and a special character.
 
-Se necesita por el usuario, poner un nombre, un email y una contraseña que debe contener de 8 a 15 caracteres, además de al menos una mayúscula y minúscula, y un caracter especial.
+ES: Se necesita por el usuario, poner un nombre, un email y una contraseña que debe contener de 8 a 15 caracteres, además de al menos una mayúscula y minúscula, y un caracter especial.
 
 
 Spanish: [Netlify](https://form-validation-firebase-memosainz-es.netlify.app/)
